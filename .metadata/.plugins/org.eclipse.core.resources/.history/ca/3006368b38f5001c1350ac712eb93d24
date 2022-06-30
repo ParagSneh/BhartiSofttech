@@ -1,0 +1,5 @@
+package com.registration.entitites;
+
+public class User {
+
+}

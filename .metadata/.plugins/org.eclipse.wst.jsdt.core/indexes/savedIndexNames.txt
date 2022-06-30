@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Bharti SoftTech\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3273174633.index
+1069326173.index
+2563057236.index
+251919537.index
+2468861222.index
+3647408595.index
